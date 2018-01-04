@@ -8,7 +8,7 @@ else{
   console.log("Expected the name to be Susan");
 }
 
-// Don't worry about this
+// Don't worry about thishttps://learn.co/tracks/bootcamp-prep/javascript-fundamentals/programming-js-in-the-ide/practicing-conditional-statements#
 module.exports = { name, height
 }
 
